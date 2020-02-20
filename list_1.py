@@ -1,6 +1,6 @@
 a=['zhangsan','lisi','zhaowu']
 b='Hello,my dear friend '
-c='l would like you to have dinner with me'
+d='l would like you to have dinner with me'
 
 
 for i in range(len(a)):
